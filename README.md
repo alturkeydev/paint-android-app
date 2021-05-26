@@ -4,10 +4,11 @@ A light-weight image editing/doodling android application I developed that reach
 
 Wishy ou all the best,
 
+Younes Alturkey
+
 ## Screenshot from Developer Dashboard
 
 <p align="center">
   <img alt="Demo" src="https://raw.githubusercontent.com/younes-alturkey/paint-android-app/master/3%20MILLION%20DOWNLOADS%20PROOF.png">
 </p>
 
-Younes
