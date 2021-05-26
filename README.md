@@ -6,7 +6,7 @@ Wishy ou all the best,
 
 Younes Alturkey
 
-## Screenshot from Developer Dashboard
+## Screenshot from Developer Console Dashboard
 
 <p align="center">
   <img alt="Demo" src="https://raw.githubusercontent.com/younes-alturkey/paint-android-app/master/3%20MILLION%20DOWNLOADS%20PROOF.png">
